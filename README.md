@@ -18,7 +18,7 @@
 > ### Load 
 >> Load the data into database using [Rmd](https://github.com/ZhijunLiu96/sql_project/blob/master/4%203NF%20populate.Rmd)
 
-## Dashboard: Rshiny
+## Dashboard: Rshiny ([global.R](https://github.com/ZhijunLiu96/sql_project/blob/master/7%20global.R) | [server.R](https://github.com/ZhijunLiu96/sql_project/blob/master/7%20server.R) | [ui.R](https://github.com/ZhijunLiu96/sql_project/blob/master/7%20ui.R))
 > #### Homepage
 >> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/1.png" hight = "90%" width = "90%">
 > #### Player

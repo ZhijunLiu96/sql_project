@@ -19,17 +19,17 @@
 >> Load the data into database using [Rmd](https://github.com/ZhijunLiu96/sql_project/blob/master/4%203NF%20populate.Rmd)
 
 ## Dashboard: Rshiny
-> Homepage
+> #### Homepage
 >> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/1.png" hight = "90%" width = "90%">
->Player
+> #### Player
 >> Profile | Position | Skills
 >> <div> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/2.png" hight = "30%" width = "30%"> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/2.1.png" hight = "30%" width = "30%"> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/3.png" hight = "30%" width = "30%"> </div>
->Country
+> #### Country
 >>World Cup | Map Explorer
 >> <div> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/4.png" hight = "45%" width = "45%"> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/5.png" hight = "45%" width = "45%"> </div>
-> Leagure
+> #### Leagure
 >> Players' info in different leagues
 >> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/6.png" hight = "90%" width = "90%">
-> Pitch
+> #### Pitch
 >> DIY SQL query
 >> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/7.png" hight = "90%" width = "90%">

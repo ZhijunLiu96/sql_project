@@ -2,22 +2,34 @@
 FIFA 2019
 
 >Menu
-![menu](https://github.com/ZhijunLiu96/sql_project/blob/master/figure/1.png)
+<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/1.png" hight = "50%" width = "50%">
+
 >Player
 >>Profile
-![menu](https://github.com/ZhijunLiu96/sql_project/blob/master/figure/2.png)
+
+<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/2.png" hight = "50%" width = "50%">
+
 >>Position
-![menu](https://github.com/ZhijunLiu96/sql_project/blob/master/figure/2.1.png)
+
+<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/2.1.png" hight = "50%" width = "50%">
+
 >>Skills
-![menu](https://github.com/ZhijunLiu96/sql_project/blob/master/figure/3.png)
+
+<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/3.png" hight = "50%" width = "50%">
 
 >Country
 >>World Cup
-![menu](https://github.com/ZhijunLiu96/sql_project/blob/master/figure/4.png)
+
+<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/4.png" hight = "50%" width = "50%">
+
 >>Map Explorer
-![menu](https://github.com/ZhijunLiu96/sql_project/blob/master/figure/5.png)
+
+<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/5.png" hight = "50%" width = "50%">
 
 >Leagure
-![menu](https://github.com/ZhijunLiu96/sql_project/blob/master/figure/6.png)
+
+<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/6.png" hight = "50%" width = "50%">
+
 >Pitch
-![menu](https://github.com/ZhijunLiu96/sql_project/blob/master/figure/7.png)
+
+<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/7.png" hight = "50%" width = "50%">

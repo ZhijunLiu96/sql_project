@@ -20,20 +20,15 @@
 
 ## Dashboard: Rshiny
 > Homepage
-<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/1.png" hight = "50%" width = "50%">
-
+>> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/1.png" hight = "50%" width = "50%">
 >Player
->>Profile
+>> Profile | Position | Skills
+<div align="center">
+<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/2.png" hight = "30%" width = "30%">
+<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/2.1.png" hight = "30%" width = "30%">
+<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/3.png" hight = "30%" width = "30%">
+</div>
 
-<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/2.png" hight = "50%" width = "50%">
-
->>Position
-
-<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/2.1.png" hight = "50%" width = "50%">
-
->>Skills
-
-<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/3.png" hight = "50%" width = "50%">
 
 >Country
 >>World Cup

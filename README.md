@@ -20,29 +20,14 @@
 
 ## Dashboard: Rshiny
 > Homepage
->> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/1.png" hight = "50%" width = "50%">
+>> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/1.png" hight = "90%" width = "90%">
 >Player
 >> Profile | Position | Skills
-<div align="center">
-<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/2.png" hight = "30%" width = "30%">
-<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/2.1.png" hight = "30%" width = "30%">
-<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/3.png" hight = "30%" width = "30%">
-</div>
-
-
+>> <div> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/2.png" hight = "30%" width = "30%"> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/2.1.png" hight = "30%" width = "30%"> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/3.png" hight = "30%" width = "30%"> </div>
 >Country
->>World Cup
-
-<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/4.png" hight = "50%" width = "50%">
-
->>Map Explorer
-
-<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/5.png" hight = "50%" width = "50%">
-
+>>World Cup | Map Explorer
+>> <div> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/4.png" hight = "45%" width = "45%"> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/5.png" hight = "45%" width = "45%"> </div>
 >Leagure
-
-<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/6.png" hight = "50%" width = "50%">
-
+>> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/6.png" hight = "90%" width = "90%">
 >Pitch
-
-<img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/7.png" hight = "50%" width = "50%">
+>><img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/7.png" hight = "90%" width = "90%">

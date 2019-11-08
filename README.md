@@ -7,7 +7,7 @@
 ## ETL Process
 > ### Extract: Data Source
 >> - [FIFA 2018 Complete Player Dataset: Kaggle](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset)
->>> - [Club coach: ClubWorldRanking](https://www.clubworldranking.com/ranking-coaches?wd=16&yr=2019&index=0) 
+>> - [Club coach: ClubWorldRanking](https://www.clubworldranking.com/ranking-coaches?wd=16&yr=2019&index=0) 
       (see the [code](https://github.com/ZhijunLiu96/sql_project/blob/master/5%20coach%20scraping.py))
 >> - [League and Club: Skysports](https://www.skysports.com/football/teams)(see the [code](https://github.com/ZhijunLiu96/sql_project/blob/master/5%20league%20scraping.py))
 >> - [Standing: Skysports](https://www.skysports.com/football/tables)(see the [code](https://github.com/ZhijunLiu96/sql_project/blob/master/5%20standings%20scraping.py))
@@ -28,6 +28,8 @@
 >>World Cup | Map Explorer
 >> <div> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/4.png" hight = "45%" width = "45%"> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/5.png" hight = "45%" width = "45%"> </div>
 >Leagure
+>> Players' info in different leagues
 >> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/6.png" hight = "90%" width = "90%">
 >Pitch
->><img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/7.png" hight = "90%" width = "90%">
+>> DIY SQL query
+>> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/7.png" hight = "90%" width = "90%">

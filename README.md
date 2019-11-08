@@ -30,7 +30,6 @@
 > Leagure
 >> Players' info in different leagues
 >> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/6.png" hight = "90%" width = "90%">
-
 > Pitch
 >> DIY SQL query
 >> <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/7.png" hight = "90%" width = "90%">

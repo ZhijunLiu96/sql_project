@@ -14,9 +14,10 @@ FIFA 2019
 >Country
 >>World Cup
 ![menu](https://github.com/ZhijunLiu96/sql_project/blob/master/figure/4.png)
-
+>>Map Explorer
 ![menu](https://github.com/ZhijunLiu96/sql_project/blob/master/figure/5.png)
 
+>Leagure
 ![menu](https://github.com/ZhijunLiu96/sql_project/blob/master/figure/6.png)
-
+>Pitch
 ![menu](https://github.com/ZhijunLiu96/sql_project/blob/master/figure/7.png)

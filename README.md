@@ -1,6 +1,6 @@
 # FIFA 2019
 
-## A dashboard link to play with [Link](https://github.com/ZhijunLiu96/sql_project.git)
+## A dashboard link to play with [Link](https://janezl.shinyapps.io/heroku/)
 
 ## Design in 3NF
 [Intro.pdf](https://github.com/ZhijunLiu96/sql_project/blob/master/2%20ER-diagram.pdf)

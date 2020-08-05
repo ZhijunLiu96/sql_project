@@ -1,5 +1,7 @@
 # FIFA 2019
 
+## A dashboard link to play with [Link](https://github.com/ZhijunLiu96/sql_project.git)
+
 ## Design in 3NF
 [Intro.pdf](https://github.com/ZhijunLiu96/sql_project/blob/master/2%20ER-diagram.pdf)
 <img src="https://github.com/ZhijunLiu96/sql_project/blob/master/figure/DR.png">
